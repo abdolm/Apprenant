@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apprenant\\source\\repos\\Bulky\\Bulky\\Bulky.csproj": {}
+    "C:\\Users\\a_sas\\Desktop\\Apprenant\\Bulky\\Bulky.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apprenant\\source\\repos\\Bulky\\Bulky\\Bulky.csproj": {
+    "C:\\Users\\a_sas\\Desktop\\Apprenant\\Bulky\\Bulky.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apprenant\\source\\repos\\Bulky\\Bulky\\Bulky.csproj",
+        "projectUniqueName": "C:\\Users\\a_sas\\Desktop\\Apprenant\\Bulky\\Bulky.csproj",
         "projectName": "Bulky",
-        "projectPath": "C:\\Users\\Apprenant\\source\\repos\\Bulky\\Bulky\\Bulky.csproj",
-        "packagesPath": "C:\\Users\\Apprenant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apprenant\\source\\repos\\Bulky\\Bulky\\obj\\",
+        "projectPath": "C:\\Users\\a_sas\\Desktop\\Apprenant\\Bulky\\Bulky.csproj",
+        "packagesPath": "C:\\Users\\a_sas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a_sas\\Desktop\\Apprenant\\Bulky\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Apprenant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a_sas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
